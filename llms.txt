@@ -1,19 +1,19 @@
 # Caderno do Passo
 
-> Guias, comparativos e reviews de moda, mochilas e acessórios para o dia a dia, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de moda, mochilas e acessórios para o dia a dia, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 acessórios de moda até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/acessorios-de-moda-ate-30/)
-- [5 bolsas, mochilas e carteiras até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/bolsas-mochilas-e-carteiras-ate-50/)
-- [5 calças, bermudas e saias até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/calcas-bermudas-e-saias-ate-60/)
-- [4 camisetas, blusas e moletons até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/camisetas-blusas-e-moletons-ate-60/)
-- [4 tênis até R$ 180: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/tenis-ate-180/)
+- [5 acessórios de moda até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/acessorios-de-moda-ate-30/)
+- [5 bolsas, mochilas e carteiras até R$ 50: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/bolsas-mochilas-e-carteiras-ate-50/)
+- [5 calças, bermudas e saias até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/calcas-bermudas-e-saias-ate-60/)
+- [4 camisetas, blusas e moletons até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/camisetas-blusas-e-moletons-ate-60/)
+- [4 tênis até R$ 180: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-passo-certo/top/tenis-ate-180/)
 
 ## Guias
 - [Como escolher acessório: o que olhar na ficha antes de gastar (de R$ 21,40 a R$ 38,98)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-acessorio/)
-- [Como escolher bolsa ou mochila: o que olhar na ficha antes de gastar (de R$ 25,22 a R$ 190,99)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-bolsa-ou-mochila/)
+- [Como escolher bolsa ou mochila: o que olhar na ficha antes de gastar (de R$ 2,98 a R$ 190,99)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-bolsa-ou-mochila/)
 - [Como escolher peça de baixo: o que olhar na ficha antes de gastar (de R$ 34,90 a R$ 147,56)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-peca-de-baixo/)
 - [Como escolher peça de cima: o que olhar na ficha antes de gastar (de R$ 35,90 a R$ 79)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-peca-de-cima/)
 - [Como escolher tênis: o que olhar na ficha antes de gastar (de R$ 85,49 a R$ 421,04)](https://marcusviniciusps08-hue.github.io/blog-passo-certo/guia/como-escolher-tenis/)
@@ -27,6 +27,7 @@ Contém links de afiliado Mercado Livre.
 - [Gravata slim premium masculino casamentos padrinhos festas em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/gravata-slim-premium-masculino-casamentos-padrinhos-festas-f2c896/)
 - [Kit 2 cintos antialergicos engate rapido regulavel mardi em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/kit-2-cintos-antialergicos-engate-rapido-regulavel-mardi-f89485/)
 - [Oculos juliet metal lupa mandrake 24k mc lente em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/oculos-juliet-metal-lupa-mandrake-24k-mc-lente-047cbf/)
+- [80 Estilos Moda Broche Dos Desenhos Animados Bonito em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/80-estilos-moda-broche-dos-desenhos-animados-bonito-da36e9/)
 - [Bolsa de mao mala para viagem 10kg feminina em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/bolsa-de-mao-mala-para-viagem-10kg-feminina-88122f/)
 - [Bolsa feminina baguete de ombro com detalhes em: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/bolsa-feminina-baguete-de-ombro-com-detalhes-em-6279de/)
 - [Carteira masculina legitimo aguia couro com fecho preto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/carteira-masculina-legitimo-aguia-couro-com-fecho-preto-ba192a/)
@@ -34,6 +35,7 @@ Contém links de afiliado Mercado Livre.
 - [Mochila grande alca reforcada resistente faculdade trabalho em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/mochila-grande-alca-reforcada-resistente-faculdade-trabalho-50a0b7/)
 - [Mochila tatica impermeavel militar reforcada grande 50litros em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/mochila-tatica-impermeavel-militar-reforcada-grande-50litros-158adc/)
 - [Mochila viagem executiva grande notebook masculina feminina em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/mochila-viagem-executiva-grande-notebook-masculina-feminina-bb6fe9/)
+- [Necessaire Feminina Personalizada com Inicial Box com Alça: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/necessaire-feminina-personalizada-com-inicial-box-com-alca-36c763/)
 - [Necessaire sem genero washbag kit necessaires rosa liso em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/necessaire-sem-genero-washbag-kit-necessaires-rosa-liso-8d528d/)
 - [Biquini 3 pecas conjunto trikini short praia tendncia: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/biquini-3-pecas-conjunto-trikini-short-praia-tendncia-9ecb35/)
 - [Calca jeans de servico masculina tradicional reforcada reta em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/calca-jeans-de-servico-masculina-tradicional-reforcada-reta-944315/)
@@ -51,6 +53,7 @@ Contém links de afiliado Mercado Livre.
 - [Camisetas raglan proteco uv termica camisas dry fit: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/camisetas-raglan-proteco-uv-termica-camisas-dry-fit-8243f7/)
 - [Jaqueta masculina puffer corta vento bobojaco blusa de: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/jaqueta-masculina-puffer-corta-vento-bobojaco-blusa-de-1a661e/)
 - [Kit 2 blusa cacharrel masculino gola alta canelado em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/kit-2-blusa-cacharrel-masculino-gola-alta-canelado-a09a7b/)
+- [Cola Transparente Para Reparo De Sapatos – Adesivo: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/cola-transparente-para-reparo-de-sapatos-adesivo-2df913/)
 - [Nike Court Vision Low Next Nature Masculino Adultos: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/nike-court-vision-low-next-nature-masculino-adultos-eca1d4/)
 - [Tenis Couro Masculino Democrata Block: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/tenis-couro-masculino-democrata-block-0e8dbd/)
 - [Tênis Casual Kappa Zenit Masculino Unissex em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-passo-certo/review/tenis-casual-kappa-zenit-masculino-unissex-ba3772/)
